@@ -1,0 +1,6 @@
+{
+  "imports": {
+    "https://cdn.skypack.dev/": "https://esm.sh/",
+    "https://esm.sh/v94/graphql@16.6.0/": "https://esm.sh/v87/graphql@16.5.0/"
+  }
+}
